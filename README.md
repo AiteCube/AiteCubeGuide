@@ -11,11 +11,11 @@
 ### 艾特魔方官网（科技公司）：[aitecube.com](http://www.aitecube.com/)
 ### Aitecube开源框架
 
-|  Img| Name | Language  | Star | Description |
-| --- | --- | --- | --- | --- |
-| ![logo-mvparms](http://function.jiangdong.me/2018-08-28-logo-mvparms.png)| [MVPArms](https://github.com/JessYanCoding/MVPArms) | Java | 6.3k | A common architecture for Android applications developing based on MVP, integrates many open source projects (like Dagger2、Rxjava、Retrofit ...), to make your developing quicker and easier. |
-|![logo-andoridautosize](http://function.jiangdong.me/2018-08-28-logo-andoridautosize.png)| [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) | Java | 1.8k | A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案). |
-|![logo-aitecubeguide](http://function.jiangdong.me/2018-08-28-logo-aitecubeguide.png)| [AiteCubeGuide](https://github.com/AiteCube/AiteCubeGuide) | None | 1 | 行政体系 人事体系 敏捷开发体系 管理体系 端口规范（产品、界面、前端、后台、测试） |
+|  Img| Name | Author | Language  | Star | Description |
+| --- | --- | --- | --- | --- | --- |
+| ![logo-mvparms](http://function.jiangdong.me/2018-08-28-logo-mvparms.png)| [MVPArms](https://github.com/JessYanCoding/MVPArms) | [JessYan](https://github.com/JessYanCoding) | Java | 6.3k | A common architecture for Android applications developing based on MVP, integrates many open source projects (like Dagger2、Rxjava、Retrofit ...), to make your developing quicker and easier. |
+|![logo-andoridautosize](http://function.jiangdong.me/2018-08-28-logo-andoridautosize.png)| [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize) | [JessYan](https://github.com/JessYanCoding) | Java | 1.8k | A low-cost Android screen adaptation solution (今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案). |
+|![logo-aitecubeguide](http://function.jiangdong.me/2018-08-28-logo-aitecubeguide.png)| [AiteCubeGuide](https://github.com/AiteCube/AiteCubeGuide) | [JiangDong](https://github.com/jiangdongGitHub) | None | 1 | 行政体系 人事体系 敏捷开发体系 管理体系 端口规范（产品、界面、前端、后台、测试） |
 
 
 -------
