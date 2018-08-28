@@ -1,6 +1,6 @@
 # AiteCubeGuide-艾特魔方体系
 
-![aitecubeCove](http://function.jiangdong.me/2018-08-28-aitecubeCover.jpg)
+[![aitecubeCove](http://function.jiangdong.me/2018-08-28-aitecubeCover.jpg)](http://www.aitecube.com/)
 
 ### 艾特魔方官网：[aitecube.com](http://www.aitecube.com/)
 
