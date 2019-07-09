@@ -1,4 +1,4 @@
-# AiteCubeGuide-艾特魔方体系
+# AgileSystem-敏捷体系
 
 [![aitecubeCove](http://function.jiangdong.me/2018-08-28-aitecubeCover.jpg)](http://www.aitecube.com/)
 
@@ -7,9 +7,8 @@
 ### 内容链接：[点击查看](http://www.aitecube.com/guide/#g=1&p=%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B)
 
 -------
-### 艾特生活官网（总公司）：[aitelife.com](http://www.aitelife.com/)
-### 艾特魔方官网（科技公司）：[aitecube.com](http://www.aitecube.com/)
-### Aitecube开源框架
+-------
+### 敏捷体系开源框架
 
 |  Img| Name | Author | Language  | Star | Description |
 | --- | --- | --- | --- | --- | --- |
